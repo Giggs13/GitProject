@@ -1,1 +1,3 @@
-Source file3
+clear
+clear
+clear
